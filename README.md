@@ -1,4 +1,4 @@
-# ---------------------------------------------Instructions--------------------------------------------------------
+# -----------------------Instructions-----------------------
 
 1.Create a folder called learn_git. 
 2.Cd (change directory) into the learn_git folder. 
@@ -17,7 +17,7 @@
 16.Write the appropriate command to list all the global configurations for git on your machine. 
 17.You can type git config --global to find out how to do this.
 
-------------------------------------------------All-Commands-Needed--------------------------------------------------------
+-----------------All-Commands-Needed---------------------
 
 !Repository named "learn_git" must be already created in your repositories on github.com
 
